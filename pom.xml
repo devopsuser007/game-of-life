@@ -495,4 +495,11 @@
             </reporting>
         </profile>
     </profiles>
-</project>
+
+<repository>
+    <id>gameoflife</id>
+    <name>game_of_life</name>
+    <url>http://54.175.125.155:8081/nexus/content/repositories/gameoflife</url>
+    
+<repository>
+    </project>
